@@ -1,5 +1,5 @@
 def function():
-    print("hello dude")
+    print("hello booche bagans")
 
 def function2():
     print("goodbye")
